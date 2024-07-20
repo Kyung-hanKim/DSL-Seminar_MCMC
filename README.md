@@ -24,3 +24,13 @@
   * Frequentist(Non-Bayesian) vs. Bayesian
   * 사전 분포 (Prior), 우도 (Likelihood), 사후 분포 (Posterior)
   * 켤레 사전 분포 (Conjugate Prior)
+
+## 6주차
+* MCMC with Bayesian Statistics
+* 일반화 선형 모형 (Generalized Linear Models, GLM)
+  * 로지스틱 회귀 (Logistic Regression)
+  * 포아송 회귀 (Poisson Regression)
+ 
+## 7주차
+* 베이지안 회귀분석 (Bayesian Regression)
+* 깁스 샘플링 (Gibbs Sampling / Gibbs Sampler)
