@@ -18,3 +18,9 @@
 
 ## 4주차 (슬라이드 없음)
 * Metropolis-Hastings 알고리즘 live-coding
+
+## 5주차
+* 베이지안 통계 (Bayesian Statistics)
+  * Frequentist(Non-Bayesian) vs. Bayesian
+  * 사전 분포 (Prior), 우도 (Likelihood), 사후 분포 (Posterior)
+  * 켤레 사전 분포 (Conjugate Prior)
